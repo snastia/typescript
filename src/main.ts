@@ -1,4 +1,5 @@
 // 1 lesson
+
 // примітиви (типи даних)
 // const name: string = 'John'
 // let age: number = 15
